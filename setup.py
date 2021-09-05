@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='fly_online',
-    version='0.0.4',
+    version='0.0.5',
     author='QiangZiBro',
     author_email='qiangzibro@gmail.com',
     url="https://github.com/QiangZiBro/flyOnline",
