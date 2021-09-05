@@ -34,6 +34,7 @@ def fly():
     geckodriver_autoinstaller.install()
 
     if args.login:
+        print("尝试登录到校园内网...")
         Login(args.file).try_all()
     else:
         schedule(args)
