@@ -6,6 +6,7 @@ setup(
     version='0.0.3',
     author='QiangZiBro',
     author_email='qiangzibro@gmail.com',
+    url="https://github.com/QiangZiBro/flyOnline",
     description=u'Never get offline in NBU',
     packages=['fly_online'],
     long_description=open("README.md", encoding='utf-8').read(),
